@@ -8,5 +8,16 @@ Demo assignment with documentation
 5. The size of this app has increased a lot because of the high quality pictures that i've used, i could also have uses uri links to get the images everytime the app opens, but to make the process faster i added them in the local assets directory.  
 6. Do let me know if you face any issues(arpitdubey907@gmail.com).  
 6. Attached here are the demo screen Capture from the app.  
-![](ScreenRecord/splash.jpeg)
+Splash Screen  
+![](ScreenRecord/splash.jpeg)  
+Photos Screen  
+![](ScreenRecord/phot1.jpeg)
+![](ScreenRecord/phot2.jpeg)
+![](ScreenRecord/phot3.jpeg)
+Followers Screen 
+![](ScreenRecord/fol1.jpeg)
+![](ScreenRecord/fol2.jpeg)
+
+
+
 
