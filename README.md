@@ -1,6 +1,6 @@
 # -YBox-Technologies
 Demo assignment with documentation
-# Steps to intsall and run the app on device.  
+# Steps to install and run the app on device.  
 1. Clone or download zip file and run 'npm install' to install node modules in the app.  
 2. To run then app after the successfull installation of node modules enter 'npx react-native run-android'
 3. I've user react-navigation V-5 here.
